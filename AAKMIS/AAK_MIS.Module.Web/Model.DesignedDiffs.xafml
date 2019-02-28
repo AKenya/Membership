@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="AAK_MIS.Module.Payments" DefaultDetailViewImage="BO_Opportunity" DefaultListViewImage="BO_Opportunity" ImageName="BO_Opportunity" />
+    <Class Name="AAK_MIS.Module.RescueDetails" DefaultDetailViewImage="BO_Organization" DefaultListViewImage="BO_Organization" ImageName="BO_Organization" />
+    <Class Name="AAK_MIS.Module.Vehicles" DefaultDetailViewImage="BO_Vendor" DefaultListViewImage="BO_Vendor" ImageName="BO_Vendor" />
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="13.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="13.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="61">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col1" RelativeSize="32" />
+              <LayoutGroup Id="MemberRegistration_col2" RelativeSize="64" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <TabbedGroup Id="Tabs" RelativeSize="38">
+            <LayoutGroup Id="Vehicles" Index="0" />
+            <LayoutGroup Id="Payments" Index="1" />
+            <LayoutGroup Id="RescueDetails" Index="2" />
+            <LayoutGroup Id="IDPDetails" Index="3" />
+            <LayoutGroup Id="AuditTrail" Index="4" />
+          </TabbedGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <DetailView Id="AAK_MIS.Module.RescueDetails_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" ImageName="">
+          <LayoutGroup Id="SimpleEditors" ImageName="">
+            <LayoutGroup Id="RescueDetails" ImageName="">
+              <LayoutGroup Id="RescueDetails_col1" RelativeSize="31" ImageName="">
+                <LayoutItem Id="CorporateMember" ViewItem="" />
+              </LayoutGroup>
+              <LayoutGroup Id="RescueDetails_col2" RelativeSize="65" ImageName="">
+                <LayoutGroup Id="Auto512487e2-d3e7-4b46-8df7-69fbd27f62c4" RelativeSize="47" ImageName="" />
+                <LayoutGroup Id="Autod9b4e567-4c2c-4c95-a192-2376412ecba7" RelativeSize="52" ImageName="" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="Item1" ImageName="">
+              <LayoutGroup Id="Auto9e4f411f-28fc-4d86-ab93-9fd039960998" RelativeSize="31" ImageName="" />
+              <LayoutGroup Id="Auto72eac97e-4083-4ec7-be44-e325bbe52ac5" RelativeSize="65" ImageName="">
+                <LayoutGroup Id="Autoffc65575-ba67-4cf0-bc1e-750f85fe1d8b" RelativeSize="51" ImageName="">
+                  <LayoutItem Id="IsFreePostAccident" ViewItem="" />
+                </LayoutGroup>
+                <LayoutGroup Id="Auto56997605-8157-4d00-bb18-9aa8036acd86" RelativeSize="48" ImageName="">
+                  <LayoutItem Id="FreeTowDistance" ViewItem="FreeTowDistance" SizeConstraintsType="Default" Index="0" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="FreeTowCost" Index="1" />
+                  <LayoutItem Id="RecoveryCharges" Index="2" />
+                  <LayoutItem Id="RoadsideCallFee" Index="3" />
+                  <LayoutItem Id="RescueFee" Index="4" />
+                  <LayoutItem Id="TowingFee" Index="5" />
+                  <LayoutItem Id="RunningCost" Index="6" />
+                  <LayoutItem Id="FeeChargeble" Index="7" />
+                  <LayoutItem Id="PaymentRefCode" Index="8" />
+                  <LayoutItem Id="ReferenceCode" ViewItem="" Index="9" RelativeSize="32" />
+                  <LayoutItem Id="TowDistance" ShowCaption="False" ViewItem="" Index="9" RelativeSize="3" Removed="True" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.Vehicles_ListView">
+      <Columns>
+        <ColumnInfo Id="MemberNo" PropertyName="MemberNo" LookupProperty="MemberNumber" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DevExpress.Persistent.BaseImpl.User_DetailView">
+      <Items>
+        <PropertyEditor Id="Branch" Caption="Branch" PropertyName="Branch" PropertyEditorType="DevExpress.ExpressApp.Web.Editors.ASPx.ASPxLookupPropertyEditor" IsNewNode="True" />
+        <PropertyEditor Id="Department" Caption="Department" PropertyName="Department" PropertyEditorType="DevExpress.ExpressApp.Web.Editors.ASPx.ASPxStringPropertyEditor" IsNewNode="True" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="Person">
+              <LayoutGroup Id="Person_col2">
+                <LayoutItem Id="Department" ViewItem="Department" ShowCaption="True" Index="0" IsNewNode="True" />
+                <LayoutItem Id="Birthday" Index="1" />
+                <LayoutItem Id="FullName" Index="2" />
+                <LayoutItem Id="Email" Index="3" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

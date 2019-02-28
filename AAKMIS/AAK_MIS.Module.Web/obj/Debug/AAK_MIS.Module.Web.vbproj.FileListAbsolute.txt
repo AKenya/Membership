@@ -1,0 +1,243 @@
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+D:\Mship\AAK_MIS\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.pdb
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.Web.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\DevExpress.ExpressApp.Web.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.Resources.resources
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll.licenses
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Debug\AAK_MIS.Module.Web.pdb

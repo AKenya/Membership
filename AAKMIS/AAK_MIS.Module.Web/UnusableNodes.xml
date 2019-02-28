@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col2">
+                <LayoutGroup Id="Auto110fe9f3-2ae8-4b8b-9e57-23bce110ed19" Caption="Auto110fe9f3-2ae8-4b8b-9e57-23bce110ed19(23)" RelativeSize="49" ImageName="" />
+                <LayoutGroup Id="Auto702b9df4-2508-48bb-86cd-6397a6698c2e" Caption="Auto702b9df4-2508-48bb-86cd-6397a6698c2e(41)" RelativeSize="50" ImageName="">
+                  <LayoutItem Id="ModifiedOn" RelativeSize="5" />
+                  <LayoutItem Id="CreatedBy" RelativeSize="24" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

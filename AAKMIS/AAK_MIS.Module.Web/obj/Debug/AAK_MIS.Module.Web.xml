@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AAK_MIS.Module.Web
+</name>
+</assembly>
+<members>
+<member name="P:AAK_MIS.Module.Web.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AAK_MIS.Module.Web.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AAK_MIS.Module.Web.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:AAK_MIS.Module.Web.AAK_MISAspNetModule.components">
+	<summary> 
+ Required designer variable.
+ </summary>
+</member><member name="M:AAK_MIS.Module.Web.AAK_MISAspNetModule.Dispose(System.Boolean)">
+	<summary> 
+ Clean up any resources being used.
+ </summary>
+	<param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member><member name="M:AAK_MIS.Module.Web.AAK_MISAspNetModule.InitializeComponent">
+	<summary> 
+ Required method for Designer support - do not modify 
+ the contents of this method with the code editor.
+ </summary>
+</member>
+</members>
+</doc>

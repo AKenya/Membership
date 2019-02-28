@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="AAK_MIS.Module.DriverCertification_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="DriverCertification">
+              <LayoutGroup Id="DriverCertification_col1">
+                <LayoutItem Id="LeadTrainer" SizeConstraintsType="Default" RelativeSize="13" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col1">
+                <LayoutItem Id="Location" SizeConstraintsType="Default" Index="17" RelativeSize="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+              </LayoutGroup>
+              <LayoutGroup Id="MemberRegistration_col2">
+                <LayoutItem Id="CardPrintTime" Removed="True" />
+                <LayoutGroup Id="Auto702b9df4-2508-48bb-86cd-6397a6698c2e">
+                  <LayoutItem Id="CardPrintTime" ViewItem="CardPrintTime" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

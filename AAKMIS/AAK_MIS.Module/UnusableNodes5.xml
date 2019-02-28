@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col2">
+                <LayoutItem Id="AniversaryMonth" ViewItem="AniversaryMonth" SizeConstraintsType="Default" Index="8" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="RecuitedBy" ViewItem="RecuitedBy" SizeConstraintsType="Default" Index="18" RelativeSize="4" Removed="True" />
+                <LayoutGroup Id="Auto702b9df4-2508-48bb-86cd-6397a6698c2e">
+                  <LayoutItem Id="RecuitedBy" ViewItem="RecuitedBy" />
+                  <LayoutItem Id="AniversaryMonth" ViewItem="AniversaryMonth" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+  <NavigationItems Id="NavigationItems">
+    <Items Id="Items">
+      <Item Id="Default">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.AAVehicle_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Agent_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Assessment_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.BlacklistDetails_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.Branch_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.CorporateStem_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Course_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.DriverTypes_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.EducationLevel_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.IDP_Allocation_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.JobTitle_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.JoiningReason_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Language_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Make_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.MemberCategory_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.MemberClassification_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.NonMember_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Order_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.PaymentMode_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Performance_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueDetails_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueLocations_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueRegions_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueTeam_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueType_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescueVehicles_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.VehicleModel_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Vehicles_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.VehicleTypes_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>

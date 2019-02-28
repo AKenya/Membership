@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="AAK_MIS.Module.JoiningReason_Category_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.JoiningReason_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.JoiningReason_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.JoiningReason_Members_ListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.MemberCategory_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberCategory">
+              <LayoutGroup Id="MemberCategory_col1">
+                <LayoutItem Id="JoiningReason" ViewItem="JoiningReason" />
+              </LayoutGroup>
+              <LayoutGroup Id="MemberCategory_col2">
+                <LayoutItem Id="JoiningReason" SizeConstraintsType="Default" Index="6" RelativeSize="10" Removed="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col1">
+                <LayoutItem Id="MemberType" ViewItem="MemberType" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <DetailView Id="AAK_MIS.Module.RescueDetails_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="RescueDetails">
+              <LayoutGroup Id="RescueDetails_col1">
+                <LayoutItem Id="CorporateMember" ViewItem="CorporateMember" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+  <NavigationItems Id="NavigationItems">
+    <Items Id="Items">
+      <Item Id="SetUps">
+        <Items Id="Items">
+          <Item Id="MembershipSetups">
+            <Items Id="Items">
+              <Item Id="AAK_MIS.Module.JoiningReason_ListView" ViewId="AAK_MIS.Module.JoiningReason_ListView" />
+            </Items>
+          </Item>
+        </Items>
+      </Item>
+      <Item Id="Procurement">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView_Copy" ViewId="AAK_MIS.Module.SuppliersList_ListView" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView_Copy" ViewId="AAK_MIS.Module.StockControl_ListView" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView" ViewId="AAK_MIS.Module.StockControl_ListView" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView_Copy" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" />
+          <Item Id="AAK_MIS.Module.Items_ListView_Copy" ViewId="AAK_MIS.Module.Items_ListView" />
+          <Item Id="AAK_MIS.Module.Items_ListView" ViewId="AAK_MIS.Module.Items_ListView" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView_Copy" ViewId="AAK_MIS.Module.CategoryGroups_ListView" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView" ViewId="AAK_MIS.Module.CategoryGroups_ListView" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView" ViewId="AAK_MIS.Module.SuppliersList_ListView" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" />
+        </Items>
+      </Item>
+      <Item Id="DrivingSchool">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.StudentManager_ListView" ViewId="AAK_MIS.Module.StudentManager_ListView" />
+        </Items>
+      </Item>
+      <Item Id="Membership">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.CorporateStem_ListView" ViewId="AAK_MIS.Module.CorporateStem_ListView" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>

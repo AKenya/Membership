@@ -1,0 +1,68 @@
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Web.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Web.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.Resources.resources
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.dll.licenses
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Chart.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.FileAttachment.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Web.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\AAK_MIS.Module.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Chart.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.FileAttachment.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\DevExpress.ExpressApp.Web.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.FileAttachment.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\de\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\es\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ja\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\bin\Release\ru\DevExpress.ExpressApp.Web.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.vbprojResolveAssemblyReference.cache
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.Resources.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.AAK_MISAspNetModule.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.dll.licenses
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module.Web\obj\Release\AAK_MIS.Module.Web.pdb

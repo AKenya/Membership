@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="MemberRegistration">
+              <LayoutGroup Id="MemberRegistration_col2">
+                <LayoutGroup Id="Auto8ab9f04c-75cf-4011-8b6d-f575c75d70d8">
+                  <LayoutGroup Id="Auto622829da-d35d-4398-8c45-d8e546f8c463">
+                    <LayoutItem Id="SpouseName" ViewItem="SpouseName" />
+                    <LayoutItem Id="SpouseMembershipNo" ViewItem="SpouseMembershipNo" />
+                  </LayoutGroup>
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+  <NavigationItems Id="NavigationItems">
+    <Items Id="Items">
+      <Item Id="SetUps">
+        <Items Id="Items">
+          <Item Id="MembershipSetups">
+            <Items Id="Items">
+              <Item Id="AAK_MIS.Module.JoiningReason_ListView" ViewId="AAK_MIS.Module.JoiningReason_ListView" />
+            </Items>
+          </Item>
+        </Items>
+      </Item>
+      <Item Id="Procurement">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView_Copy" ViewId="AAK_MIS.Module.SuppliersList_ListView" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView_Copy" ViewId="AAK_MIS.Module.StockControl_ListView" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView" ViewId="AAK_MIS.Module.StockControl_ListView" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView_Copy" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" />
+          <Item Id="AAK_MIS.Module.Items_ListView_Copy" ViewId="AAK_MIS.Module.Items_ListView" />
+          <Item Id="AAK_MIS.Module.Items_ListView" ViewId="AAK_MIS.Module.Items_ListView" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView_Copy" ViewId="AAK_MIS.Module.CategoryGroups_ListView" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView" ViewId="AAK_MIS.Module.CategoryGroups_ListView" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView" ViewId="AAK_MIS.Module.SuppliersList_ListView" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" />
+        </Items>
+      </Item>
+      <Item Id="DrivingSchool">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.StudentManager_ListView" ViewId="AAK_MIS.Module.StudentManager_ListView" />
+        </Items>
+      </Item>
+      <Item Id="Membership">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.CorporateStem_ListView" ViewId="AAK_MIS.Module.CorporateStem_ListView" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>

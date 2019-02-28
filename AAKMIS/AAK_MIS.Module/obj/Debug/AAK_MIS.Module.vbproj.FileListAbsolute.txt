@@ -1,0 +1,595 @@
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+D:\Mship\AAK_MIS\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\AAK_MIS\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\AAK_MIS\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.BlacklistMember.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.CancelIDPs.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.ChangeClientStatus.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.ChangeStatus.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.ClearFieldsController.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.CloseMonth.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.FeedBackCtrl.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.ProcessBulkPayment.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.ProcessOrder.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.LimitIDPsController.resources
+D:\Mship\AAK_MIS\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.LimitVehiclesController.resources
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+D:\Mship\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+G:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Xpo.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.xml
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+C:\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Xpo.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+C:\InstallCD\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll.config
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.pdb
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Objects.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Xpo.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.AuditTrail.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Kpi.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Reports.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Security.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.Validation.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.ExpressApp.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.Base.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Persistent.BaseImpl.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.Xpo.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\DevExpress.XtraReports.v13.1.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.AuditTrail.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Kpi.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Objects.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Reports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Security.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.MyController.resources
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.AAK_MISModule.resources
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.Resources.resources
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.vbproj.GenerateResource.Cache
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll.licenses
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.dll
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.xml
+C:\Users\sk185476\Desktop\PS\COPY_TM - Copy (3) - Copy\AAK_MIS.Module\obj\Debug\AAK_MIS.Module.pdb

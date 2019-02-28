@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems Id="NavigationItems">
+    <Items Id="Items">
+      <Item Id="DrivingSchool">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.StudentManager_ListView" ViewId="AAK_MIS.Module.StudentManager_ListView" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>

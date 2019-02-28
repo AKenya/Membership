@@ -1,0 +1,1125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="AAK_MIS" Logo="Action_CloneMerge_Clone_Object" PreferredLanguage="(Default language)">
+  <ActionDesign>
+    <Actions>
+      <Action Id="CloseMon" ImageName="Action_Deny_Set" />
+      <Action Id="DialogOK" ValidationContexts="ChangePassword" ConfirmationMessage="" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="AAK_MIS.Module.AdvancedAssessment">
+      <OwnMembers>
+        <Member Name="Amount" Caption="AMOUNT" />
+        <Member Name="AssessmentDate" Caption="ASSESSMENT DATE" />
+        <Member Name="CandidateName" Caption="CANDIDATE NAME" />
+        <Member Name="CellNo" Caption="CELL NO" />
+        <Member Name="ClassValid" Caption="CLASS VALID" />
+        <Member Name="ClientName" Caption="CLIENT NAME" />
+        <Member Name="DLNo" Caption="DRIVING LICENSE C OF C NO" />
+        <Member Name="Duration" Caption="DURATION" />
+        <Member Name="Examiner" Caption="EXAMINER" />
+        <Member Name="ExpiryDate" Caption="EXPIRY DATE" />
+        <Member Name="FinishTime" Caption="FINISH TIME" DisplayFormat="{0:t}" EditMask="t" />
+        <Member Name="IssuingOffice" Caption="ISSUING OFFICE" />
+        <Member Name="ReceiptNo" Caption="RECEIPT NO" />
+        <Member Name="ReportNo" Caption="REPORT NO" />
+        <Member Name="SpeedometerFinal" Caption="SPEEDOMETER FINAL" />
+        <Member Name="SpeedometerInintial" Caption="SPEEDOMETER INITIAL" />
+        <Member Name="StartTime" Caption="START TIME" DisplayFormat="{0:t}" EditMask="t" />
+        <Member Name="VehicleUsed" Caption="VEHICLE USED (REG NO)" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.Applicant_Docs">
+      <OwnMembers>
+        <Member Name="Applicant" AllowEdit="True" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.Assessment">
+      <OwnMembers>
+        <Member Name="Amount" Caption="AMOUNT" />
+        <Member Name="AssessmentDate" Caption="ASSESSMENT DATE" />
+        <Member Name="ClientName" Caption="CLIENT'S NAME" />
+        <Member Name="DLClass" Caption="DL-CLASS TESTED" />
+        <Member Name="DLNo" Caption="DRIVING LICENSE C OF C NO" />
+        <Member Name="DriverName" Caption="DRIVER'S NAME" />
+        <Member Name="Examiner" Caption="EXAMINER" />
+        <Member Name="ExpiryDate" Caption="EXPIRY DATE" />
+        <Member Name="IssuingOffice" Caption="ISSUING OFFICE" />
+        <Member Name="ReceiptNo" Caption="RECEIPT NO" />
+        <Member Name="ReportNo" Caption="REPORT NO" />
+        <Member Name="VehicleUsed" Caption="VEHICLE USED (REG NO)" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.AssessmentDetails" Caption="Performance">
+      <OwnMembers>
+        <Member Name="AA" Caption="Following distance Observation" />
+        <Member Name="AB" Caption="Consideration of other road users' safety (road courtesy)" />
+        <Member Name="AC" Caption="Hazard procedure and cornering" />
+        <Member Name="AD" Caption="Use of driving mirrors and horn" />
+        <Member Name="AE" Caption="Alertness and anticipation" />
+        <Member Name="AF" Caption="Vehicle sympathy" />
+        <Member Name="AG" Caption="Maneuvering and reversing" />
+        <Member Name="BA" Caption="Pre-trip checks (tires, fuel, gauges e.t.c)" />
+        <Member Name="BB" Caption="Attention given to seat belts, seat adjustment and door looks" />
+        <Member Name="BC" Caption="Use of hand brake and parking" />
+        <Member Name="HA" Caption="Knowledge of road signs" />
+        <Member Name="HB" Caption="Theory questions on driving (General driving knowledge)" />
+        <Member Name="HC" Caption="Theory board Lane drill" />
+        <Member Name="PA" Caption="Approach" />
+        <Member Name="SA" Caption="Observance and obedience" />
+        <Member Name="TA" Caption="Vision barriers' observation" />
+        <Member Name="TB" Caption="Adjusting to different road Constantsditions e.g potholes, speed Constantstrol e.t.c" />
+        <Member Name="TC" Caption="Avoiding obstructing other road users/ motorists" />
+        <Member Name="TD" Caption="Posistioning of the vehicle on the road" />
+        <Member Name="TE" Caption="Three point turn" />
+        <Member Name="TF" Caption="Lane displine/ use" />
+        <Member Name="TG" Caption="Overtaking" />
+        <Member Name="TH" Caption="Hill start" />
+        <Member Name="TI" Caption="Observance of Traffic lights, Round abouts Junctions Approach" />
+        <Member Name="VA" Caption="Starting a vehicle" />
+        <Member Name="VB" Caption="Acceleration" />
+        <Member Name="VC" Caption="Clutch Constantstrol" />
+        <Member Name="VD" Caption="Gear changing" />
+        <Member Name="VE" Caption="Deportment at wheel and steering Constantstrol" />
+        <Member Name="VF" Caption="Braking and stopping" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.Courses">
+      <OwnMembers>
+        <Member Name="Applicants" AllowEdit="False" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.DefensiveDrivingEvaluation">
+      <OwnMembers>
+        <Member Name="BA" Caption="Attention given to seat belts, seat adjustment and door locks" />
+        <Member Name="BB" Caption="Use of hand brake and parking" />
+        <Member Name="DA" Caption="Following distance observation" />
+        <Member Name="DB" Caption="Consideration of other road users’ safety (road courtesy)" />
+        <Member Name="DC" Caption="Hazard observation" />
+        <Member Name="DD" Caption="Use of driving mirrors (360 Degree observation)" />
+        <Member Name="DE" Caption="Alertness and anticipation – See ahead" />
+        <Member Name="DF" Caption="Defensive driving on distraction" />
+        <Member Name="DG" Caption="Defensive driving on seeing and be seen" />
+        <Member Name="GA" Caption="Vision barriers’ observation" />
+        <Member Name="GB" Caption="Adjusting to different road conditions e.g. potholes, speed control etc" />
+        <Member Name="GC" Caption="Positioning of vehicle on the road" />
+        <Member Name="GD" Caption="Overtaking" />
+        <Member Name="SA" Caption="Observance and obedience of signs at a junction" />
+        <Member Name="VA" Caption="Vehicle control on acceleration procedure" />
+        <Member Name="VB" Caption="Deportment at wheel and steering control" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.Employment">
+      <OwnMembers>
+        <Member Name="Applicants" AllowEdit="False" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.IDP_Details" DefaultDetailViewImage="Action_Copy_CellValue" DefaultListViewImage="Action_Copy_CellValue" ImageName="Action_Copy_CellValue">
+      <OwnMembers>
+        <Member Name="IDPNumber" DataSourceCriteria="[Status] = ##Enum#AAK_MIS.Module.IDP_Allocation+IdpState,UnIssued#" DataSourceProperty="IssuingBranch.IdpAllocationList" />
+        <Member Name="IssuingBranch" DataSourceCriteria="[IsScheme] = False" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.Languages">
+      <OwnMembers>
+        <Member Name="Applicants" AllowEdit="False" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.MemberRegistration" IsVisibleInReports="True">
+      <OwnMembers>
+        <Member Name="CellNumber" EditMaskType="Simple" EditMask="9990000000" Size="10" />
+        <Member Name="CorporateMembershipNo" DataSourceCriteria="[Category.Category] = 'CORPORATE' And [MembershipType.TypeName] = 'CORPORATE'" LookupProperty="MemberNumber,MemberName" />
+        <Member Name="Email" Size="50" DisplayFormat="" EditMask="" />
+      </OwnMembers>
+    </Class>
+    <Class Name="AAK_MIS.Module.SafariCheck">
+      <OwnMembers>
+        <Member Name="TiresAndPressure" Caption="Tyres And Pressure" />
+      </OwnMembers>
+    </Class>
+    <Class Name="DevExpress.Persistent.BaseImpl.Person">
+      <OwnMembers>
+        <Member Name="Branch" IsCustom="True" Caption="Branch" Type="AAK_MIS.Module.Branch" PropertyEditorType="DevExpress.ExpressApp.Editors.DetailPropertyEditor" LookupProperty="BranchName" IsNewNode="True" />
+        <Member Name="Department" IsCustom="True" Caption="Department" Type="System.String" PropertyEditorType="DevExpress.ExpressApp.Editors.DetailPropertyEditor" IsNewNode="True" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Localization>
+    <LocalizationGroup Name="Texts">
+      <LocalizationItem Name="NullValueText" Value="" />
+    </LocalizationGroup>
+  </Localization>
+  <NavigationItems>
+    <Items>
+      <Item Id="Membership" Index="0" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.MemberRegistration_ListView" ViewId="AAK_MIS.Module.MemberRegistration_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CorporateStem_ListView" ViewId="AAK_MIS.Module.CorporateStem_ListView" ObjectKey="" Index="1" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CardsManager_ListView" ViewId="AAK_MIS.Module.CardsManager_ListView" ObjectKey="" Index="2" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.ComplaintRegister_ListView" ViewId="AAK_MIS.Module.ComplaintRegister_ListView" ObjectKey="" Index="3" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Payments_ListView" ViewId="AAK_MIS.Module.Payments_ListView" ObjectKey="" Index="4" Visible="False" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Voucher_ListView" ViewId="AAK_MIS.Module.Voucher_ListView" ObjectKey="" Index="5" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CardCancellationDetails_ListView" ViewId="AAK_MIS.Module.CardCancellationDetails_ListView" ObjectKey="" ImageName="Action_LinkUnlink_Unlink" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="RescueManager" Caption="Rescue Manager" Index="1" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.NonMember_ListView" ViewId="AAK_MIS.Module.NonMember_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.RescueDetails_ListView" ViewId="AAK_MIS.Module.RescueDetails_ListView" ObjectKey="" Index="1" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Vehicles" Index="2" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.Vehicles_ListView" ViewId="AAK_MIS.Module.Vehicles_ListView" ObjectKey="" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Bureau" Caption="Driver's Bureau" Index="3" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.Applicants_ListView" ViewId="AAK_MIS.Module.Applicants_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Order_ListView" ViewId="AAK_MIS.Module.Order_ListView" ObjectKey="" Index="1" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Employers_ListView" ViewId="AAK_MIS.Module.Employers_ListView" ObjectKey="" Index="2" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="DrivingSchool" Index="4" Caption="Driving School" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.Assessment_ListView" ViewId="AAK_MIS.Module.Assessment_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.AdvancedAssessment_ListView" ViewId="AAK_MIS.Module.AdvancedAssessment_ListView" ObjectKey="" Index="1" ImageName="BO_Contract" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.StudentManager_ListView" ViewId="AAK_MIS.Module.StudentManager_ListView" ObjectKey="" Visible="False" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Licensing" Index="5" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.IDP_Details_ListView" ViewId="AAK_MIS.Module.IDP_Details_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.IDPBranch_Allocation_ListView" ViewId="AAK_MIS.Module.IDPBranch_Allocation_ListView" ObjectKey="" Index="1" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.IDP_Allocation_ListView" ViewId="AAK_MIS.Module.IDP_Allocation_ListView" ObjectKey="" Index="2" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Carnet_ListView" ViewId="AAK_MIS.Module.Carnet_ListView" ObjectKey="" Index="3" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CancelReasons_ListView" ViewId="AAK_MIS.Module.CancelReasons_ListView" ObjectKey="" Visible="False" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.IdpPreIssueDetails_ListView" Caption="Pre-Cancelled IDPs" ViewId="AAK_MIS.Module.IdpPreIssueDetails_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.ReceiveIdps_ListView" ViewId="AAK_MIS.Module.ReceiveIdps_ListView" ObjectKey="" Visible="False" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Training" Index="6" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.CertificateDeletionDetails_ListView" ViewId="AAK_MIS.Module.CertificateDeletionDetails_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.DriverCertification_ListView" ViewId="AAK_MIS.Module.DriverCertification_ListView" ObjectKey="" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Procurement" Index="7" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" ObjectKey="" Index="0" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView" ViewId="AAK_MIS.Module.SuppliersList_ListView" ObjectKey="" Index="1" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView" ViewId="AAK_MIS.Module.CategoryGroups_ListView" ObjectKey="" Index="2" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView_Copy" ViewId="AAK_MIS.Module.CategoryGroups_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Items_ListView" ViewId="AAK_MIS.Module.Items_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.Items_ListView_Copy" ViewId="AAK_MIS.Module.Items_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView_Copy" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView" ViewId="AAK_MIS.Module.StockControl_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView_Copy" ViewId="AAK_MIS.Module.StockControl_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView_Copy" ViewId="AAK_MIS.Module.SuppliersList_ListView" ObjectKey="" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Default" Caption="Administration" Index="8">
+        <Items>
+          <Item Id="AAK_MIS.Module.Action_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.AdvancedAssessment_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.AdvancedPerformance_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Applicants_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.CancelReasons_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.CardCancellationDetails_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.CardsManager_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Carnet_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.CertificateDeletionDetails_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.ChecklistDocuments_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.CheckListFileData_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.ComplaintRegister_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Courses_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.DefensiveDrivingEvaluation_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.DeletionDetails_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.Dependants_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.DLClass_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.DriverCertification_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Employers_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Employment_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.Examiners_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.IDPBranch_Allocation_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.IdpPreIssueDetails_ListView" Caption="Pre-Cancelled IDPs" Removed="True" />
+          <Item Id="AAK_MIS.Module.Languages_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.LineOfDuty_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Media_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.MembershipType_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.MsgSettings_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.PaymentCharges_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.PaymentDetails_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.Payments_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Profession_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.ReceiveIdps_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Recruiter_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.RescuePeriod_ListView" Visible="False" />
+          <Item Id="AAK_MIS.Module.Voucher_ListView" Removed="True" />
+        </Items>
+      </Item>
+      <Item Id="SetUps" Index="9" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="BureauSetups" Caption="Bureau Setups" Index="1" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="AAK_MIS.Module.AAVehicle_ListView" ViewId="AAK_MIS.Module.AAVehicle_ListView" ObjectKey="" Caption="DSC Vehicles" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.AdvancedPerformance_ListView" ViewId="AAK_MIS.Module.AdvancedPerformance_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Course_ListView" ViewId="AAK_MIS.Module.Course_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.DLClass_ListView" ViewId="AAK_MIS.Module.DLClass_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.DriverTypes_ListView" ViewId="AAK_MIS.Module.DriverTypes_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.EducationLevel_ListView" ViewId="AAK_MIS.Module.EducationLevel_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Examiners_ListView" ViewId="AAK_MIS.Module.Examiners_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.JobTitle_ListView" ViewId="AAK_MIS.Module.JobTitle_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Language_ListView" ViewId="AAK_MIS.Module.Language_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.PaymentCharges_ListView" ViewId="AAK_MIS.Module.PaymentCharges_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Performance_ListView" ViewId="AAK_MIS.Module.Performance_ListView" ObjectKey="" IsNewNode="True" />
+            </Items>
+          </Item>
+          <Item Id="MembershipSetups" Caption="Membership Setups" Index="1" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="AAK_MIS.Module.Branch_ListView" ViewId="AAK_MIS.Module.Branch_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.JoiningReason_ListView" ViewId="AAK_MIS.Module.JoiningReason_ListView" ObjectKey="" Caption="Membership Type" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.LineOfDuty_ListView" ViewId="AAK_MIS.Module.LineOfDuty_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Media_ListView" ViewId="AAK_MIS.Module.Media_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.MemberCategory_ListView" ViewId="AAK_MIS.Module.MemberCategory_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.MemberClassification_ListView" ViewId="AAK_MIS.Module.MemberClassification_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.MembershipType_ListView" ViewId="AAK_MIS.Module.MembershipType_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.MsgSettings_ListView" ViewId="AAK_MIS.Module.MsgSettings_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.PaymentMode_ListView" ViewId="AAK_MIS.Module.PaymentMode_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Profession_ListView" ViewId="AAK_MIS.Module.Profession_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Recruiter_ListView" ViewId="AAK_MIS.Module.Recruiter_ListView" ObjectKey="" IsNewNode="True" />
+            </Items>
+          </Item>
+          <Item Id="RescueSetups" Caption="Rescue Setups" Index="2" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="AAK_MIS.Module.Agent_ListView" ViewId="AAK_MIS.Module.Agent_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.Make_ListView" ViewId="AAK_MIS.Module.Make_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.RescueLocations_ListView" ViewId="AAK_MIS.Module.RescueLocations_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.RescueRegions_ListView" ViewId="AAK_MIS.Module.RescueRegions_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.RescueTeam_ListView" ViewId="AAK_MIS.Module.RescueTeam_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.RescueType_ListView" ViewId="AAK_MIS.Module.RescueType_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.RescueVehicles_ListView" ViewId="AAK_MIS.Module.RescueVehicles_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.VehicleModel_ListView" ViewId="AAK_MIS.Module.VehicleModel_ListView" ObjectKey="" IsNewNode="True" />
+              <Item Id="AAK_MIS.Module.VehicleTypes_ListView" ViewId="AAK_MIS.Module.VehicleTypes_ListView" ObjectKey="" IsNewNode="True" />
+            </Items>
+          </Item>
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="13.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Validation>
+    <Rules>
+      <RuleRegularExpression Id="Password is complex" TargetType="DevExpress.ExpressApp.Security.ChangePasswordParameters" TargetPropertyName="NewPassword" TargetContextIDs="ChangePassword" SkipNullOrEmptyValues="False" Pattern="^(?=.*[a-zA-Z])(?=.*\d).{6,}$" MessageTemplateMustMatchPattern="New password must Constantssist at least of 6 characters and digits." MessageTemplateCollectionValidationMessageSuffix="(For the &quot;{TargetCollectionOwnerType}.{TargetCollectionPropertyName}&quot; collection elements)." InvertResult="False" IsNewNode="True" />
+    </Rules>
+  </Validation>
+  <Views>
+    <ListView Id="AAK_MIS.Module.AAVehicle_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AAVehicle_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Action_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Action_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.AdvancedAssessment_DetailView">
+      <Items>
+        <PropertyEditor Id="AllCleanGlasses" Caption="All Windscreens Clean" />
+        <PropertyEditor Id="AWA" Caption="Anti-hijack awareness (10)" />
+        <PropertyEditor Id="AWB" Caption="Environment awareness (6)" />
+        <PropertyEditor Id="AWC" Caption="Depth of vision awareness (8)" />
+        <PropertyEditor Id="AWD" Caption="Anticipation awareness (10)" />
+        <PropertyEditor Id="BDL" Caption="Door locks basics (10)" />
+        <PropertyEditor Id="BRA" Caption="Following distance observation (10)" />
+        <PropertyEditor Id="BRB" Caption="Correct use of speed (8)" />
+        <PropertyEditor Id="BRC" Caption="Use of blind spots (10)" />
+        <PropertyEditor Id="BRD" Caption="Consideration for pedestrians (10)" />
+        <PropertyEditor Id="BRE" Caption="Consideration for other road users (10)" />
+        <PropertyEditor Id="BRF" Caption="Overtaking (10)" />
+        <PropertyEditor Id="BRG" Caption="Road junctions (10)" />
+        <PropertyEditor Id="BRH" Caption="Hazard identification &amp; Reaction (10)" />
+        <PropertyEditor Id="BRI" Caption="Use of driving mirrors (8)" />
+        <PropertyEditor Id="BRJ" Caption="Hand &amp; Mechanical signals (6)" />
+        <PropertyEditor Id="BRK" Caption="Temperament (10)" />
+        <PropertyEditor Id="BRL" Caption="Correct use of horn (4)" />
+        <PropertyEditor Id="BRM" Caption="Roundabout displine (10)" />
+        <PropertyEditor Id="BRN" Caption="Lanes displine (10)" />
+        <PropertyEditor Id="BRO" Caption="Escape routes (8)" />
+        <PropertyEditor Id="BRP" Caption="Acceleration &amp; Deceleration lanes (8)" />
+        <PropertyEditor Id="BRQ" Caption="Road courtesy (10)" />
+        <PropertyEditor Id="BSB" Caption="Seat belts basics (10)" />
+        <PropertyEditor Id="HCA" Caption="Knowledge of road signs (15)" />
+        <PropertyEditor Id="HCB" Caption="Theory questions on driving (10)" />
+        <PropertyEditor Id="HCC" Caption="Theory board lane practice (15)" />
+        <PropertyEditor Id="Instrument" Caption="Instrument/ Gauges" />
+        <PropertyEditor Id="Jack" Caption="Jack/ Handle" />
+        <PropertyEditor Id="MRA" Caption="Angle parking (5)" />
+        <PropertyEditor Id="MRB" Caption="Flush parking (5)" />
+        <PropertyEditor Id="MRC" Caption="Hill parking (5)" />
+        <PropertyEditor Id="MRD" Caption="Hill stop &amp; Restart (5)" />
+        <PropertyEditor Id="MRE" Caption="Pause on the hill (5)" />
+        <PropertyEditor Id="MRF" Caption="Emergency stop (5)" />
+        <PropertyEditor Id="MRG" Caption="Three-point turn (5)" />
+        <PropertyEditor Id="MRH" Caption="Reversing (10)" />
+        <PropertyEditor Id="RimCondition" Caption="RIM Condition" />
+        <PropertyEditor Id="TDA" Caption="Traffic observation &amp; planning (5)" />
+        <PropertyEditor Id="TDB" Caption="Maintaining adequate progress (4)" />
+        <PropertyEditor Id="TDC" Caption="Observation of vision barriers (8)" />
+        <PropertyEditor Id="TDD" Caption="Positioning on the road (6)" />
+        <PropertyEditor Id="TDE" Caption="Positioning behind other vehicles (6)" />
+        <PropertyEditor Id="TDF" Caption="Observations of Speed Limits (6)" />
+        <PropertyEditor Id="TDG" Caption="Observation of Road Signs (8)" />
+        <PropertyEditor Id="TDH" Caption="Obedience of Road Signs (10)" />
+        <PropertyEditor Id="TDI" Caption="Method of approach to Signs (5)" />
+        <PropertyEditor Id="TDJ" Caption="Approach to pedestrian crossings (10)" />
+        <PropertyEditor Id="TiresAndPressure" Caption="Tyres And Pressure" />
+        <PropertyEditor Id="ULA" Caption="Use of lights for signals (5)" />
+        <PropertyEditor Id="ULB" Caption="Head light flashing (4)" />
+        <PropertyEditor Id="VCA" Caption="Starting a vehicle (3)" />
+        <PropertyEditor Id="VCB" Caption="Moving off (3)" />
+        <PropertyEditor Id="VCC" Caption="Look and Signal (8)" />
+        <PropertyEditor Id="VCD" Caption="Acceleration (4)" />
+        <PropertyEditor Id="VCE" Caption="Smooth ride (4)" />
+        <PropertyEditor Id="VCF" Caption="Steering (4)" />
+        <PropertyEditor Id="VCG" Caption="Clutch Constantstrol (3)" />
+        <PropertyEditor Id="VCH" Caption="Gear changing (4)" />
+        <PropertyEditor Id="VCI" Caption="Use of gears (4)" />
+        <PropertyEditor Id="VCJ" Caption="Use of Hand-brake &amp; Neutral (3)" />
+        <PropertyEditor Id="VCK" Caption="Braking and Stoping (4)" />
+        <PropertyEditor Id="VCL" Caption="Deportment at the wheel (3)" />
+        <PropertyEditor Id="VCM" Caption="Positioning of hands whilst driving (2)" />
+        <PropertyEditor Id="VCN" Caption="Car sympathy (10)" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100" ImageName="" Caption="Main" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="90" ImageName="" Caption="SimpleEditors" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutGroup Id="AdvancedAssessment" RelativeSize="24" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutGroup Id="AdvancedAssessment_col1" RelativeSize="44" ImageName="" Caption="AdvancedAssessment_col1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="ReportNo" SizeConstraintsType="Default" RelativeSize="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IssuingOffice" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Index="1" />
+                <LayoutItem Id="CandidateName" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Index="2" />
+                <LayoutItem Id="DLNo" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ExpiryDate" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ClassValid" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ClientName" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Examiner" SizeConstraintsType="Default" RelativeSize="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+              </LayoutGroup>
+              <LayoutGroup Id="AdvancedAssessment_col2" RelativeSize="52" ImageName="" Caption="AdvancedAssessment_col2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="AssessmentDate" SizeConstraintsType="Default" Index="0" RelativeSize="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ReceiptNo" SizeConstraintsType="Default" Index="1" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Amount" SizeConstraintsType="Default" Index="2" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="FinishTime" SizeConstraintsType="Default" Index="3" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="StartTime" SizeConstraintsType="Default" Index="4" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VehicleUsed" SizeConstraintsType="Default" Index="5" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="SpeedometerFinal" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="SpeedometerInintial" SizeConstraintsType="Default" RelativeSize="24" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="SafariCheck" RelativeSize="25" ImageName="" Caption="SAFARI CHECK (MANDATORY AND ESSENTIALS TO BE CHECKED)" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutGroup Id="SafariCheck_col1" RelativeSize="64" ImageName="" Direction="Horizontal" Caption="SafariCheck_col1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutGroup Id="Auto58c15edd-74bd-40fc-9021-db074bcda60c" ShowCaption="False" Caption="Auto58c15edd-74bd-40fc-9021-db074bcda60c(25)" Index="0" RelativeSize="50" IsNewNode="True">
+                  <LayoutItem Id="DrivingLicence" ViewItem="DrivingLicence" SizeConstraintsType="Default" Index="0" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="VehicleInsurance" ViewItem="VehicleInsurance" SizeConstraintsType="Default" Index="1" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="VehicleInspection" ViewItem="VehicleInspection" SizeConstraintsType="Default" Index="2" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="Fuel" ViewItem="Fuel" SizeConstraintsType="Default" Index="3" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="EngineOil" ViewItem="EngineOil" SizeConstraintsType="Default" Index="4" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="Water" ViewItem="Water" SizeConstraintsType="Default" Index="5" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="BatteryWater" ViewItem="BatteryWater" SizeConstraintsType="Default" Index="6" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="BrakeAndClutchFluid" ViewItem="BrakeAndClutchFluid" SizeConstraintsType="Default" Index="7" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="WheelBrace" ViewItem="WheelBrace" SizeConstraintsType="Default" Index="8" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="Jack" ViewItem="Jack" SizeConstraintsType="Default" Index="9" RelativeSize="12" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutGroup Id="Autoc96ae4df-9036-46e8-95e2-b23bc77c7cd6" ShowCaption="False" Caption="Autoc96ae4df-9036-46e8-95e2-b23bc77c7cd6(36)" Index="1" RelativeSize="49" IsNewNode="True">
+                  <LayoutItem Id="FanBelt" ViewItem="FanBelt" SizeConstraintsType="Default" Index="0" RelativeSize="12" MinSize="256, 32" MaxSize="0, 0" IsNewNode="True" />
+                  <LayoutItem Id="FireExtinguisher" ViewItem="FireExtinguisher" SizeConstraintsType="Default" Index="1" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="FirstAidKit" ViewItem="FirstAidKit" SizeConstraintsType="Default" Index="2" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="WheelSpanner" ViewItem="WheelSpanner" SizeConstraintsType="Default" Index="3" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="HazardTriangles" ViewItem="HazardTriangles" SizeConstraintsType="Default" Index="4" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="SeatBelts" ViewItem="SeatBelts" SizeConstraintsType="Default" Index="5" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="SeatAdjustment" ViewItem="SeatAdjustment" SizeConstraintsType="Default" Index="6" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="IgnitionAndCharging" ViewItem="IgnitionAndCharging" SizeConstraintsType="Default" Index="7" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="Horn" ViewItem="Horn" SizeConstraintsType="Default" Index="8" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="Mirrors" ViewItem="Mirrors" SizeConstraintsType="Default" Index="9" RelativeSize="12" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutItem Id="VehicleInsurance" ViewItem="VehicleInsurance" SizeConstraintsType="Default" Index="1" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="VehicleInspection" ViewItem="VehicleInspection" SizeConstraintsType="Default" Index="2" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="Fuel" ViewItem="Fuel" SizeConstraintsType="Default" Index="3" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="EngineOil" ViewItem="EngineOil" SizeConstraintsType="Default" Index="4" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="Water" ViewItem="Water" SizeConstraintsType="Default" Index="5" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="BatteryWater" ViewItem="BatteryWater" SizeConstraintsType="Default" Index="6" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="BrakeAndClutchFluid" ViewItem="BrakeAndClutchFluid" SizeConstraintsType="Default" Index="7" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="WheelBrace" ViewItem="WheelBrace" SizeConstraintsType="Default" Index="8" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="Jack" ViewItem="Jack" SizeConstraintsType="Default" Index="9" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="FanBelt" ViewItem="FanBelt" SizeConstraintsType="Default" Index="10" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="FireExtinguisher" ViewItem="FireExtinguisher" SizeConstraintsType="Default" Index="11" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="FirstAidKit" ViewItem="FirstAidKit" SizeConstraintsType="Default" Index="12" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="WheelSpanner" ViewItem="WheelSpanner" SizeConstraintsType="Default" Index="13" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="HazardTriangles" ViewItem="HazardTriangles" SizeConstraintsType="Default" Index="14" RelativeSize="8" Removed="True" />
+                <LayoutItem Id="DrivingLicence" SizeConstraintsType="Default" RelativeSize="8" Removed="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="SafariCheck_col2" RelativeSize="32" ImageName="" Caption="SafariCheck_col2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="Brakes" SizeConstraintsType="Default" RelativeSize="12" Index="0" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Horn" SizeConstraintsType="Default" RelativeSize="8" Index="0" Removed="True" />
+                <LayoutItem Id="IgnitionAndCharging" ViewItem="IgnitionAndCharging" SizeConstraintsType="Default" Index="0" RelativeSize="8" Removed="True" />
+                <LayoutItem Id="Mirrors" SizeConstraintsType="Default" RelativeSize="8" Index="0" Removed="True" />
+                <LayoutItem Id="SeatAdjustment" SizeConstraintsType="Default" RelativeSize="8" Index="0" Removed="True" />
+                <LayoutItem Id="Wipers" SizeConstraintsType="Default" RelativeSize="9" Index="1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="WorkingLights" SizeConstraintsType="Default" RelativeSize="9" Index="2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="SteeringSystem" SizeConstraintsType="Default" RelativeSize="9" Index="3" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Indicators" SizeConstraintsType="Default" Index="4" RelativeSize="9" />
+                <LayoutItem Id="Instrument" SizeConstraintsType="Default" RelativeSize="9" Index="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="RimCondition" SizeConstraintsType="Default" RelativeSize="9" Index="6" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TiresAndPressure" SizeConstraintsType="Default" RelativeSize="9" Index="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="CarCleanliness" SizeConstraintsType="Default" RelativeSize="9" Index="8" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="AllCleanGlasses" SizeConstraintsType="Default" RelativeSize="12" Index="9" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="SeatBelts" SizeConstraintsType="Default" RelativeSize="8" Removed="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="SafariAssessment" RelativeSize="50" ImageName="" Caption="PRACTICAL ASSESSMENT" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutGroup Id="SafariAssessment_col1" RelativeSize="32" ImageName="" Caption="SafariAssessment_col1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="BSB" SizeConstraintsType="Default" RelativeSize="6" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="BDL" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCA" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCB" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCC" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCD" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCE" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCF" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCG" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCH" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCI" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCJ" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCK" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCL" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCM" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="VCN" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TDA" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TDB" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TDC" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TDD" SizeConstraintsType="Default" RelativeSize="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TDE" SizeConstraintsType="Default" RelativeSize="6" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="BRA" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="BRB" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="BRC" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="BRD" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="BRE" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="BRF" SizeConstraintsType="Default" RelativeSize="32" Index="21" Removed="True" />
+                <LayoutItem Id="TDG" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="TDH" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="TDI" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="TDJ" SizeConstraintsType="Default" RelativeSize="3" Index="21" Removed="True" />
+                <LayoutItem Id="TDF" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="SafariAssessment_col2" RelativeSize="64" ImageName="" Direction="Horizontal" Caption="SafariAssessment_col2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutGroup Id="Autoa7a22625-7ac3-444d-91c5-63b732f95996" ShowCaption="False" Caption="Autoa7a22625-7ac3-444d-91c5-63b732f95996(82)" Index="0" RelativeSize="49" IsNewNode="True">
+                  <LayoutItem Id="TDF" ViewItem="TDF" SizeConstraintsType="Default" Index="0" RelativeSize="6" IsNewNode="True" />
+                  <LayoutItem Id="TDG" ViewItem="TDG" SizeConstraintsType="Default" Index="1" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="TDH" ViewItem="TDH" SizeConstraintsType="Default" Index="2" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="TDI" ViewItem="TDI" SizeConstraintsType="Default" Index="3" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="TDJ" ViewItem="TDJ" SizeConstraintsType="Default" Index="4" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRA" ViewItem="BRA" SizeConstraintsType="Default" Index="5" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRB" ViewItem="BRB" SizeConstraintsType="Default" Index="6" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRC" ViewItem="BRC" SizeConstraintsType="Default" Index="7" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRD" ViewItem="BRD" SizeConstraintsType="Default" Index="8" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRE" ViewItem="BRE" SizeConstraintsType="Default" Index="9" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRF" ViewItem="BRF" SizeConstraintsType="Default" Index="10" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRG" ViewItem="BRG" SizeConstraintsType="Default" Index="11" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRH" ViewItem="BRH" SizeConstraintsType="Default" Index="12" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRI" ViewItem="BRI" SizeConstraintsType="Default" Index="13" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRJ" ViewItem="BRJ" SizeConstraintsType="Default" Index="14" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRK" ViewItem="BRK" SizeConstraintsType="Default" Index="15" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRL" ViewItem="BRL" SizeConstraintsType="Default" Index="16" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRM" ViewItem="BRM" SizeConstraintsType="Default" Index="17" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRN" ViewItem="BRN" SizeConstraintsType="Default" Index="18" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRO" ViewItem="BRO" SizeConstraintsType="Default" Index="19" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRP" ViewItem="BRP" SizeConstraintsType="Default" Index="20" RelativeSize="6" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutGroup Id="Autoeba81b05-39f0-4418-83c0-d8775871e502" ShowCaption="False" Caption="Autoeba81b05-39f0-4418-83c0-d8775871e502(104)" Index="1" RelativeSize="50" IsNewNode="True">
+                  <LayoutItem Id="BRQ" ViewItem="BRQ" SizeConstraintsType="Default" Index="0" RelativeSize="6" IsNewNode="True" />
+                  <LayoutItem Id="MRA" ViewItem="MRA" SizeConstraintsType="Default" Index="1" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRB" ViewItem="MRB" SizeConstraintsType="Default" Index="2" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRC" ViewItem="MRC" SizeConstraintsType="Default" Index="3" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRD" ViewItem="MRD" SizeConstraintsType="Default" Index="4" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRE" ViewItem="MRE" SizeConstraintsType="Default" Index="5" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRF" ViewItem="MRF" SizeConstraintsType="Default" Index="6" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRG" ViewItem="MRG" SizeConstraintsType="Default" Index="7" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="MRH" ViewItem="MRH" SizeConstraintsType="Default" Index="8" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="ULA" ViewItem="ULA" SizeConstraintsType="Default" Index="9" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="ULB" ViewItem="ULB" SizeConstraintsType="Default" Index="10" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="AWA" ViewItem="AWA" SizeConstraintsType="Default" Index="11" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="AWB" ViewItem="AWB" SizeConstraintsType="Default" Index="12" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="AWC" ViewItem="AWC" SizeConstraintsType="Default" Index="13" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="AWD" ViewItem="AWD" SizeConstraintsType="Default" Index="14" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="HCA" ViewItem="HCA" SizeConstraintsType="Default" Index="15" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="HCB" ViewItem="HCB" SizeConstraintsType="Default" Index="16" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="HCC" ViewItem="HCC" SizeConstraintsType="Default" Index="17" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="Score" ViewItem="Score" SizeConstraintsType="Default" Index="18" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="ModifiedOn" ViewItem="ModifiedOn" SizeConstraintsType="Default" Index="19" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="CreatedBy" ViewItem="CreatedBy" SizeConstraintsType="Default" Index="20" RelativeSize="4" IsNewNode="True" />
+                  <LayoutItem Id="BRR" SizeConstraintsType="Default" Index="21" RelativeSize="1" ShowCaption="False" ViewItem="" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutItem Id="Score" SizeConstraintsType="Default" Index="2" RelativeSize="33" Removed="True" />
+                <LayoutItem Id="AWA" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="AWB" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="AWC" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="AWD" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRG" SizeConstraintsType="Default" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="BRH" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRI" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRJ" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRK" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRL" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRM" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRN" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRO" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRP" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BRQ" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="CreatedBy" SizeConstraintsType="Default" RelativeSize="7" Removed="True" />
+                <LayoutItem Id="HCA" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="HCB" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="HCC" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="ModifiedOn" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRA" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRB" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRC" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRD" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRE" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRF" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRG" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MRH" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="ULA" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="ULB" SizeConstraintsType="Default" RelativeSize="3" Removed="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="SizeableEditors" RelativeSize="2" ImageName="" Caption="Remarks" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutItem Id="Remarks" SizeConstraintsType="Default" RelativeSize="100" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+          </LayoutGroup>
+          <LayoutGroup Id="AuditTrail_Group" Direction="Vertical" RelativeSize="6" ImageName="BO_Audit_ChangeHistory" Caption="Audit Trail" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutItem Id="AuditTrail" SizeConstraintsType="Default" RelativeSize="49" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.AdvancedAssessment_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AdvancedAssessment_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AdvancedPerformance_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AdvancedPerformance_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Agent_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Agent_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicant_Docs_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicant_Docs_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_Courses_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_Documents_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_Employments_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_Languages_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Applicants_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.Assessment_DetailView">
+      <Items>
+        <PropertyEditor Id="IssuingOffice" DataSourceCriteria="[IsScheme] = False" />
+      </Items>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.Assessment_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Assessment_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AssessmentDetails_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.AssessmentDetails_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.BlacklistDetails_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.BlacklistDetails_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Branch_IdpAllocationList_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Branch_IssuedIDPDetails_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.Branch_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Branch_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Branch_Members_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.CancelReasons_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.CancelReasons_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.CardsManager_DetailView" AllowDelete="False" AllowNew="False" AllowEdit="True" />
+    <ListView Id="AAK_MIS.Module.CardsManager_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.CardsManager_LookupListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.Carnet_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Carnet_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.CertificateDeletionDetails_ListView" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.CertificateDeletionDetails_LookupListView" AllowNew="False" AllowDelete="False" />
+    <ListView Id="AAK_MIS.Module.ChecklistDocuments_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.ChecklistDocuments_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.CheckListFileData_DetailView" AllowDelete="False" AllowEdit="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.CheckListFileData_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.CheckListFileData_LookupListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <DetailView Id="AAK_MIS.Module.ComplaintRegister_DetailView" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.ComplaintRegister_ListView" AllowNew="False" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.ComplaintRegister_LookupListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.Course_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Course_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Courses_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Courses_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.DefensiveDrivingEvaluation_DetailView" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.DefensiveDrivingEvaluation_LookupListView" AllowDelete="False" AllowNew="False" />
+    <DetailView Id="AAK_MIS.Module.Dependants_DetailView" AllowDelete="False" AllowEdit="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.Dependants_ListView" AllowDelete="False" AllowEdit="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.Dependants_LookupListView" AllowDelete="False" AllowEdit="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.DLClass_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.DLClass_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.DriverCertification_DetailView">
+      <Items>
+        <PropertyEditor Id="DLClass" Caption="DL Class" />
+        <PropertyEditor Id="DLNo" Caption="DL Number" />
+        <PropertyEditor Id="Period" Caption="Training Period" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100" ImageName="" Caption="Main" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="65" ImageName="" Caption="SimpleEditors" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutGroup Id="DriverCertification" RelativeSize="100" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutGroup Id="DriverCertification_col1" RelativeSize="46" ImageName="" Caption="DriverCertification_col1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="CertificateNo" SizeConstraintsType="Default" RelativeSize="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Course" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="TraineeName" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Organization" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="CellNo" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="DLNo" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="DLClass" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="DrivingExperience" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+              </LayoutGroup>
+              <LayoutGroup Id="DriverCertification_col2" RelativeSize="50" ImageName="" Caption="DriverCertification_col2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="Trainer1" SizeConstraintsType="Default" RelativeSize="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Trainer2" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Trainer3" SizeConstraintsType="Default" RelativeSize="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Period" SizeConstraintsType="Default" RelativeSize="10" />
+                <LayoutItem Id="ReceiptNo" SizeConstraintsType="Default" RelativeSize="10" />
+                <LayoutItem Id="ValidUpto" SizeConstraintsType="Default" RelativeSize="10" />
+                <LayoutItem Id="ModifiedOn" SizeConstraintsType="Default" RelativeSize="10" />
+                <LayoutItem Id="CreatedBy" SizeConstraintsType="Default" RelativeSize="24" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="SizeableEditors" RelativeSize="8" ImageName="">
+            <LayoutItem Id="TopicsCovered" SizeConstraintsType="Default" RelativeSize="100" />
+          </LayoutGroup>
+          <TabbedGroup Id="Tabs" RelativeSize="26">
+            <LayoutGroup Id="DrivingEvaluation" Index="0" RelativeSize="100" ImageName="BO_List">
+              <LayoutItem Id="DrivingEvaluation" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="AuditTrail" Index="1" RelativeSize="100" ImageName="BO_Audit_ChangeHistory">
+              <LayoutItem Id="AuditTrail" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+          </TabbedGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.DriverTypes_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.DriverTypes_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.EducationLevel_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.EducationLevel_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employers_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employers_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employers_Order_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employers_PaymentDetails_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employment_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Employment_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Examiners_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Examiners_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.feedbackType_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.feedbackType_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDP_Allocation_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDP_Allocation_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDP_Details_Check_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" />
+    <ListView Id="AAK_MIS.Module.IDP_Details_CheckList_ListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.IDP_Details_DetailView" AllowNew="False">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100" ImageName="" Caption="Main" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="86" ImageName="" Index="0" Caption="SimpleEditors" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutGroup Id="IDP_Details" RelativeSize="86" ImageName="" Index="0" Caption="IDP Details" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutGroup Id="IDP_Details_col1" ShowCaption="False" Index="0" RelativeSize="38" IsNewNode="True" Removed="True">
+                <LayoutItem Id="MemberNumber" ViewItem="MemberNumber" SizeConstraintsType="Default" Index="0" RelativeSize="9" IsNewNode="True" />
+                <LayoutItem Id="MemberName" ViewItem="MemberName" SizeConstraintsType="Default" Index="1" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="IssuingBranch" ViewItem="IssuingBranch" SizeConstraintsType="Default" Index="2" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="IDPNumber" ViewItem="IDPNumber" SizeConstraintsType="Default" Index="3" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="NameOfDirector" ViewItem="NameOfDirector" SizeConstraintsType="Default" Index="4" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="DirectorDOB" ViewItem="DirectorDOB" SizeConstraintsType="Default" Index="5" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="DirectorIDNo" ViewItem="DirectorIDNo" SizeConstraintsType="Default" Index="6" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="PassportNo" ViewItem="PassportNo" SizeConstraintsType="Default" Index="7" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="PlaceOfBirth" ViewItem="PlaceOfBirth" SizeConstraintsType="Default" Index="8" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="DLNumber" ViewItem="DLNumber" SizeConstraintsType="Default" Index="9" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="DLExpiryDate" ViewItem="DLExpiryDate" SizeConstraintsType="Default" Index="10" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="Nationality" ViewItem="Nationality" SizeConstraintsType="Default" Index="11" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="CellNumber" ViewItem="CellNumber" SizeConstraintsType="Default" Index="12" RelativeSize="9" IsNewNode="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="IDP_Details_col2" RelativeSize="58" ImageName="" Caption="IDP_Details_col2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+                <LayoutItem Id="CellNumber" SizeConstraintsType="Default" RelativeSize="10" Index="0" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Removed="True" />
+                <LayoutItem Id="FullAddress" SizeConstraintsType="Default" RelativeSize="9" Index="0" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Nationality" SizeConstraintsType="Default" RelativeSize="10" Index="0" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Removed="True" />
+                <LayoutItem Id="IDPIssueDate" SizeConstraintsType="Default" RelativeSize="7" Index="1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IDPExpiryDate" SizeConstraintsType="Default" RelativeSize="7" Index="2" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IsFreeIDP" SizeConstraintsType="Default" RelativeSize="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Index="3" />
+                <LayoutItem Id="ReceiptNo" SizeConstraintsType="Default" RelativeSize="7" Index="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Amount" SizeConstraintsType="Default" RelativeSize="7" Index="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IssuingOfficer" ViewItem="IssuingOfficer" SizeConstraintsType="Default" Index="6" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="CancelReason" SizeConstraintsType="Default" Index="7" RelativeSize="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ModifiedOn" SizeConstraintsType="Default" Index="8" RelativeSize="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="CreatedBy" SizeConstraintsType="Default" Index="9" RelativeSize="31" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ClassesEndorsed" ViewItem="ClassesEndorsed" SizeConstraintsType="Default" Index="11" RelativeSize="10" Removed="True" />
+                <LayoutItem Id="CountriesPermitRequired" ViewItem="CountriesPermitRequired" SizeConstraintsType="Default" Index="11" RelativeSize="10" Removed="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutItem Id="ClassesEndorsed" ViewItem="ClassesEndorsed" SizeConstraintsType="Default" Index="1" RelativeSize="5" IsNewNode="True" />
+            <LayoutItem Id="CountriesPermitRequired" ViewItem="CountriesPermitRequired" SizeConstraintsType="Default" Index="2" RelativeSize="7" IsNewNode="True" />
+          </LayoutGroup>
+          <TabbedGroup Id="Tabs" RelativeSize="13" Index="1" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutGroup Id="Check" RelativeSize="100" ImageName="" Caption="Old Checklist" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutItem Id="Check" SizeConstraintsType="Default" RelativeSize="100" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+            </LayoutGroup>
+            <LayoutGroup Id="CheckList" RelativeSize="100" ImageName="" Caption="Check List" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutItem Id="CheckList" SizeConstraintsType="Default" RelativeSize="100" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+            </LayoutGroup>
+            <LayoutGroup Id="AuditTrail" RelativeSize="100" ImageName="BO_Audit_ChangeHistory" Caption="Audit Trail" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+              <LayoutItem Id="AuditTrail" SizeConstraintsType="Default" RelativeSize="100" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+            </LayoutGroup>
+          </TabbedGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.IDP_Details_ListView" AllowDelete="True" AllowEdit="False" AllowNew="False" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDP_Details_LookupListView" AllowNew="False" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDPBranch_Allocation_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.IDPBranch_Allocation_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.JobTitle_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.JobTitle_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Language_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Language_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Languages_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Languages_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.LineOfDuty_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.LineOfDuty_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Make_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Make_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Make_VehicleModel_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Media_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Media_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.MemberCategory_DetailView">
+      <Items>
+        <PropertyEditor Id="AdditionalFee" Caption="Additional Fee Per Vehicle" />
+        <PropertyEditor Id="Category" Caption="Category Name" />
+        <PropertyEditor Id="FreeTows" Caption="Free Tows (KMS)" />
+        <PropertyEditor Id="Span" Caption="Span (Months)" />
+        <PropertyEditor Id="VehicleRqd" Caption="Vehicle Required" />
+      </Items>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.MemberCategory_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.MemberCategory_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.MemberClassification_Classifcation_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.MemberClassification_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.MemberClassification_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.MemberRegistration_DetailView">
+      <Items>
+        <PropertyEditor Id="Branch" Caption="Branch" />
+        <PropertyEditor Id="CellNumber" Caption="Cell Number" />
+        <PropertyEditor Id="DOB" Caption="DOB/ Date of Reg" />
+        <PropertyEditor Id="IDPPNumber" Caption="IDPPNumber/ Cert No" />
+        <PropertyEditor Id="Location" Caption="Location/ Street" />
+        <PropertyEditor Id="MemberName" Caption="Member Name" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" Caption="Main" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" Caption="SimpleEditors" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="68">
+            <LayoutGroup Id="MemberRegistration" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100">
+              <LayoutGroup Id="MemberRegistration_col1" Caption="MemberRegistration_col1" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="31">
+                <LayoutItem Id="MemberNumber" SizeConstraintsType="Default" RelativeSize="6" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="OldNumber" SizeConstraintsType="Default" RelativeSize="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Branch" ViewItem="Branch" SizeConstraintsType="Default" Index="2" RelativeSize="5" IsNewNode="True" />
+                <LayoutItem Id="MembershipType" SizeConstraintsType="Default" RelativeSize="5" Index="3" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Category" SizeConstraintsType="Default" RelativeSize="5" Index="4" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="ExpiryDate" ViewItem="ExpiryDate" SizeConstraintsType="Default" Index="5" RelativeSize="5" IsNewNode="True" />
+                <LayoutItem Id="Title" SizeConstraintsType="Default" RelativeSize="5" Index="6" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="MemberName" SizeConstraintsType="Default" RelativeSize="5" Index="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Gender" SizeConstraintsType="Default" RelativeSize="5" Index="8" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="DOB" SizeConstraintsType="Default" RelativeSize="5" Index="9" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Nationality" SizeConstraintsType="Default" RelativeSize="5" Index="10" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IDPPNumber" SizeConstraintsType="Default" RelativeSize="5" Index="11" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="Profession" SizeConstraintsType="Default" RelativeSize="5" Index="12" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IsScheme" SizeConstraintsType="Default" RelativeSize="5" Index="13" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="IsCorporateMember" SizeConstraintsType="Default" Index="14" RelativeSize="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="CorporateMembershipNo" SizeConstraintsType="Default" Index="15" RelativeSize="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="CorporateName" SizeConstraintsType="Default" RelativeSize="5" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Index="16" />
+                <LayoutItem Id="ContactPerson" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="Designation" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="MaritalStatus" SizeConstraintsType="Default" RelativeSize="12" Index="17" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+                <LayoutItem Id="MembershipStatus" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="NoOfVehicles" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="PostAddress" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="PostCode" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="Town" SizeConstraintsType="Default" Index="17" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="Location" SizeConstraintsType="Default" Index="18" RelativeSize="7" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" Removed="True" />
+                <LayoutItem Id="HouseNumber" SizeConstraintsType="Default" Index="19" RelativeSize="6" Removed="True" />
+                <LayoutItem Id="Street" SizeConstraintsType="Default" Index="19" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="PINNumber" Removed="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="MemberRegistration_col2" Caption="MemberRegistration_col2" ImageName="" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="65" Direction="Vertical">
+                <LayoutGroup Id="Auto8ab9f04c-75cf-4011-8b6d-f575c75d70d8" ShowCaption="False" Caption="Auto8ab9f04c-75cf-4011-8b6d-f575c75d70d8(23)" Direction="Horizontal" Index="0" RelativeSize="93" IsNewNode="True">
+                  <LayoutGroup Id="Auto622829da-d35d-4398-8c45-d8e546f8c463" ShowCaption="False" Caption="Auto622829da-d35d-4398-8c45-d8e546f8c463(24)" Index="0" RelativeSize="46" IsNewNode="True">
+                    <LayoutItem Id="Location" ViewItem="Location" SizeConstraintsType="Default" Index="0" RelativeSize="7" IsNewNode="True" />
+                    <LayoutItem Id="Street" ViewItem="Street" SizeConstraintsType="Default" Index="1" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HouseNumber" ViewItem="HouseNumber" SizeConstraintsType="Default" Index="2" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="PINNumber" ViewItem="PINNumber" SizeConstraintsType="Default" Index="3" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="ContactPerson" ViewItem="ContactPerson" SizeConstraintsType="Default" Index="4" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="Designation" ViewItem="Designation" SizeConstraintsType="Default" Index="5" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="MembershipStatus" ViewItem="MembershipStatus" SizeConstraintsType="Default" Index="6" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="NoOfVehicles" ViewItem="NoOfVehicles" SizeConstraintsType="Default" Index="7" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="PostAddress" ViewItem="PostAddress" SizeConstraintsType="Default" Index="8" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="PostCode" ViewItem="PostCode" SizeConstraintsType="Default" Index="9" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="Town" ViewItem="Town" SizeConstraintsType="Default" Index="10" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="CellNumber" ViewItem="CellNumber" SizeConstraintsType="Default" Index="11" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="Telephone" ViewItem="Telephone" SizeConstraintsType="Default" Index="12" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="Email" ViewItem="Email" SizeConstraintsType="Default" Index="13" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="SocialMedia" ViewItem="SocialMedia" SizeConstraintsType="Default" Index="14" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="MemberClassification" ViewItem="MemberClassification" SizeConstraintsType="Default" Index="15" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="FreeTowBalance" ViewItem="FreeTowBalance" SizeConstraintsType="Default" Index="16" RelativeSize="12" IsNewNode="True" />
+                  </LayoutGroup>
+                  <LayoutGroup Id="Auto4e96565a-58e2-4614-94c5-2f3a2aec3345" ShowCaption="False" Caption="Auto4e96565a-58e2-4614-94c5-2f3a2aec3345(41)" Index="1" RelativeSize="53" IsNewNode="True">
+                    <LayoutItem Id="JoiningDate" ViewItem="JoiningDate" SizeConstraintsType="Default" Index="0" RelativeSize="7" IsNewNode="True" />
+                    <LayoutItem Id="AnniversaryMonth" ViewItem="AnniversaryMonth" SizeConstraintsType="Default" Index="1" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="VehicleNumber" ViewItem="VehicleNumber" SizeConstraintsType="Default" Index="2" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="PolicyNumber" ViewItem="PolicyNumber" SizeConstraintsType="Default" Index="3" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="PolicyExpDate" ViewItem="PolicyExpDate" SizeConstraintsType="Default" Index="4" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="CardSerialNo" ViewItem="CardSerialNo" SizeConstraintsType="Default" Index="5" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="CardPrintTime" ViewItem="CardPrintTime" SizeConstraintsType="Default" Index="6" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="RecruitedBy" ViewItem="RecruitedBy" SizeConstraintsType="Default" Index="7" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="Blacklisted" ViewItem="Blacklisted" SizeConstraintsType="Default" Index="8" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasFreeTow" ViewItem="HasFreeTow" SizeConstraintsType="Default" Index="9" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasFreeIDP" ViewItem="HasFreeIDP" SizeConstraintsType="Default" Index="10" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasFullMechanical" ViewItem="HasFullMechanical" SizeConstraintsType="Default" Index="11" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasPreInsValuation" ViewItem="HasPreInsValuation" SizeConstraintsType="Default" Index="12" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasFreeWheelAlignment" ViewItem="HasFreeWheelAlignment" SizeConstraintsType="Default" Index="13" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasAirEvacuation" ViewItem="HasAirEvacuation" SizeConstraintsType="Default" Index="14" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="HasFreeGroundAmbulance" ViewItem="HasFreeGroundAmbulance" SizeConstraintsType="Default" Index="15" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="CreatedBy" ViewItem="CreatedBy" SizeConstraintsType="Default" Index="16" RelativeSize="5" IsNewNode="True" />
+                    <LayoutItem Id="ModifiedOn" ViewItem="ModifiedOn" SizeConstraintsType="Default" Index="17" RelativeSize="6" IsNewNode="True" />
+                  </LayoutGroup>
+                </LayoutGroup>
+                <LayoutItem Id="VehicleNumber" ViewItem="VehicleNumber" SizeConstraintsType="Default" Index="0" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="Blacklisted" ViewItem="Blacklisted" SizeConstraintsType="Default" Index="1" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="BlacklistReason" ViewItem="BlacklistReason" SizeConstraintsType="Default" Index="1" RelativeSize="6" IsNewNode="True" Removed="True" />
+                <LayoutItem Id="CardSerialNo" ViewItem="CardSerialNo" SizeConstraintsType="Default" Index="1" RelativeSize="33" Removed="True" />
+                <LayoutItem Id="CellNumber" ViewItem="CellNumber" SizeConstraintsType="Default" Index="1" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="Email" ViewItem="Email" SizeConstraintsType="Default" Index="1" RelativeSize="5" Removed="True" />
+                <LayoutItem Id="MemberClassification" ViewItem="MemberClassification" SizeConstraintsType="Default" Index="1" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="ModifiedOn" ViewItem="ModifiedOn" SizeConstraintsType="Default" Index="1" RelativeSize="5" Removed="True" />
+                <LayoutItem Id="RecruitedBy" ViewItem="RecruitedBy" SizeConstraintsType="Default" Index="1" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="SocialMedia" ViewItem="SocialMedia" SizeConstraintsType="Default" Index="1" RelativeSize="5" Removed="True" />
+                <LayoutItem Id="Telephone" ViewItem="Telephone" SizeConstraintsType="Default" Index="1" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="AnniversaryMonth" ViewItem="AnniversaryMonth" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="ExpiryDate" ViewItem="ExpiryDate" SizeConstraintsType="Default" Index="2" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="FreeTowBalance" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="HasFreeGroundAmbulance" SizeConstraintsType="Default" Index="2" RelativeSize="18" Removed="True" />
+                <LayoutItem Id="HasFreeTow" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="HasFreeWheelAlignment" ViewItem="HasFreeWheelAlignment" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="HasPreInsValuation" ViewItem="HasPreInsValuation" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="JoiningDate" ViewItem="JoiningDate" SizeConstraintsType="Default" Index="2" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="CreatedBy" ViewItem="CreatedBy" SizeConstraintsType="Default" Index="3" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="HasAirEvacuation" ViewItem="HasAirEvacuation" SizeConstraintsType="Default" Index="4" RelativeSize="4" Removed="True" />
+                <LayoutItem Id="PolicyExpDate" ViewItem="PolicyExpDate" SizeConstraintsType="Default" Index="15" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="Branch" SizeConstraintsType="Default" Index="17" RelativeSize="2" Removed="True" />
+                <LayoutItem Id="CardPrintTime" SizeConstraintsType="Default" Index="18" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="PolicyNumber" SizeConstraintsType="Default" Index="19" RelativeSize="3" Removed="True" />
+                <LayoutItem Id="HasFreeIDP" Removed="True" />
+                <LayoutItem Id="HasFullMechanical" Removed="True" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+          <TabbedGroup Id="Tabs" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="31">
+            <LayoutGroup Id="Dependants" Index="0" RelativeSize="100" ImageName="BO_Department">
+              <LayoutItem Id="Dependants" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="Vehicles" Caption="Vehicles" ImageName="BO_Vendor" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100" Index="1">
+              <LayoutItem Id="Vehicles" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="Payments" Caption="Payments" ImageName="BO_Opportunity" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100" Index="2">
+              <LayoutItem Id="Payments" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="RescueDetails" Caption="Rescue Details" ImageName="BO_Organization" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100" Index="3">
+              <LayoutItem Id="RescueDetails" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="IDPDetails" Caption="IDPDetails" ImageName="Action_Copy_CellValue" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100" Index="4">
+              <LayoutItem Id="IDPDetails" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="AuditTrail" Caption="Audit Trail" ImageName="BO_Audit_ChangeHistory" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" RelativeSize="100" Index="6">
+              <LayoutItem Id="AuditTrail" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+          </TabbedGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.MemberRegistration_IDPDetails_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.MemberRegistration_ListView" UseServerMode="True" IsGroupPanelVisible="True">
+      <Columns>
+        <ColumnInfo Id="MemberNumber" SortOrder="None" />
+      </Columns>
+    </ListView>
+    <ListView Id="AAK_MIS.Module.MemberRegistration_LookupListView" UseServerMode="True">
+      <Columns>
+        <ColumnInfo Id="MemberNumber" SortOrder="None" />
+      </Columns>
+    </ListView>
+    <ListView Id="AAK_MIS.Module.MemberRegistration_Payments_ListView" UseServerMode="True" ImageName="BO_Opportunity" />
+    <ListView Id="AAK_MIS.Module.MemberRegistration_RescueDetails_ListView" UseServerMode="True" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.MemberRegistration_Vehicles_ListView" UseServerMode="True" ImageName="BO_Vendor" AllowEdit="True" NewItemRowPosition="Top" AllowNew="True" />
+    <ListView Id="AAK_MIS.Module.NonMember_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.NonMember_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.NonMember_Rescue_ListView" UseServerMode="True" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.Order_Applicants_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Order_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Order_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentCharges_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentCharges_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentDetails_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentDetails_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentMode_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.PaymentMode_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.Payments_DetailView" ImageName="BO_Opportunity" />
+    <ListView Id="AAK_MIS.Module.Payments_ListView" UseServerMode="True" ImageName="BO_Opportunity" />
+    <ListView Id="AAK_MIS.Module.Payments_LookupListView" UseServerMode="True" ImageName="BO_Opportunity" />
+    <ListView Id="AAK_MIS.Module.Performance_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Performance_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Profession_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Profession_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.ReceiveIdps_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.ReceiveIdps_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Recruiter_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.Recruiter_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.RescueDetails_DetailView" AllowNew="False" ImageName="BO_Organization">
+      <Items>
+        <PropertyEditor Id="CancellingExplanation" Caption="Cancelling Reason" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" ShowCaption="False" Index="0" RelativeSize="100" IsNewNode="True" Removed="True">
+          <LayoutGroup Id="SimpleEditors" ShowCaption="False" Index="0" RelativeSize="89" IsNewNode="True">
+            <LayoutGroup Id="RescueDetails" ShowCaption="True" Caption="Rescue Details" Direction="Horizontal" Index="0" RelativeSize="33" IsNewNode="True">
+              <LayoutGroup Id="RescueDetails_col1" ShowCaption="False" Index="0" RelativeSize="29" IsNewNode="True">
+                <LayoutItem Id="JobNumber" ViewItem="JobNumber" SizeConstraintsType="Default" Index="0" RelativeSize="16" IsNewNode="True" />
+                <LayoutItem Id="Controller" ViewItem="Controller" SizeConstraintsType="Default" Index="1" RelativeSize="12" IsNewNode="True" />
+                <LayoutItem Id="MemberNo" ViewItem="MemberNo" SizeConstraintsType="Default" Index="2" RelativeSize="12" IsNewNode="True" />
+                <LayoutItem Id="CorporateMember" SizeConstraintsType="Default" Index="3" RelativeSize="5" ShowCaption="False" ViewItem="" IsNewNode="True" />
+                <LayoutItem Id="NonMember" ViewItem="NonMember" SizeConstraintsType="Default" Index="4" RelativeSize="12" IsNewNode="True" />
+                <LayoutItem Id="CallerName" ViewItem="CallerName" SizeConstraintsType="Default" Index="5" RelativeSize="12" IsNewNode="True" />
+                <LayoutItem Id="CallerCellNo" ViewItem="CallerCellNo" SizeConstraintsType="Default" Index="6" RelativeSize="12" IsNewNode="True" />
+                <LayoutItem Id="CallDate" ViewItem="CallDate" SizeConstraintsType="Default" Index="7" RelativeSize="16" IsNewNode="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="RescueDetails_col2" ShowCaption="False" Direction="Horizontal" Index="1" RelativeSize="68" IsNewNode="True">
+                <LayoutGroup Id="Auto512487e2-d3e7-4b46-8df7-69fbd27f62c4" ShowCaption="False" Caption="Auto512487e2-d3e7-4b46-8df7-69fbd27f62c4(14)" Index="0" RelativeSize="46" IsNewNode="True">
+                  <LayoutItem Id="MemberVehicle" ViewItem="MemberVehicle" SizeConstraintsType="Default" Index="0" RelativeSize="16" IsNewNode="True" />
+                  <LayoutItem Id="NonExistingVehicle" ViewItem="NonExistingVehicle" SizeConstraintsType="Default" Index="1" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="NonMemberVehicle" ViewItem="NonMemberVehicle" SizeConstraintsType="Default" Index="2" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="RescueOffice" ViewItem="RescueOffice" SizeConstraintsType="Default" Index="3" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="VehicleType" ViewItem="VehicleType" SizeConstraintsType="Default" Index="4" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="VehicleMake" ViewItem="VehicleMake" SizeConstraintsType="Default" Index="5" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="VehicleModel" ViewItem="VehicleModel" SizeConstraintsType="Default" Index="6" RelativeSize="21" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutGroup Id="Autod9b4e567-4c2c-4c95-a192-2376412ecba7" ShowCaption="False" Caption="Autod9b4e567-4c2c-4c95-a192-2376412ecba7(22)" Index="1" RelativeSize="53" IsNewNode="True">
+                  <LayoutItem Id="ContinueJob" ViewItem="ContinueJob" SizeConstraintsType="Default" Index="0" RelativeSize="16" IsNewNode="True" />
+                  <LayoutItem Id="BookJob" ViewItem="BookJob" SizeConstraintsType="Default" Index="1" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="CancelJob" ViewItem="CancelJob" SizeConstraintsType="Default" Index="2" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="Reason" ViewItem="Reason" SizeConstraintsType="Default" Index="3" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="BookedTime" ViewItem="BookedTime" SizeConstraintsType="Default" Index="4" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="ModifiedOn" ViewItem="ModifiedOn" SizeConstraintsType="Default" Index="5" RelativeSize="12" IsNewNode="True" />
+                  <LayoutItem Id="CreatedBy" ViewItem="CreatedBy" SizeConstraintsType="Default" Index="6" RelativeSize="21" IsNewNode="True" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="Item2" ShowCaption="True" CaptionLocation="Top" Index="1" RelativeSize="13" Caption=" " IsNewNode="True">
+              <LayoutItem Id="JobDetails" ViewItem="JobDetails" SizeConstraintsType="Default" Index="0" RelativeSize="35" IsNewNode="True" />
+              <LayoutItem Id="CancellingExplanation" ViewItem="CancellingExplanation" SizeConstraintsType="Default" Index="1" RelativeSize="35" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Item1" ShowCaption="True" CaptionLocation="Top" Index="2" RelativeSize="53" Direction="Horizontal" Caption="Service Details" IsNewNode="True">
+              <LayoutGroup Id="Auto9e4f411f-28fc-4d86-ab93-9fd039960998" ShowCaption="False" Caption="Auto9e4f411f-28fc-4d86-ab93-9fd039960998(34)" Index="0" RelativeSize="30" IsNewNode="True">
+                <LayoutItem Id="ServiceType" ViewItem="ServiceType" SizeConstraintsType="Default" Index="0" RelativeSize="9" IsNewNode="True" />
+                <LayoutItem Id="RescueIncident" ViewItem="RescueIncident" SizeConstraintsType="Default" Index="1" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="IsAgent" ViewItem="IsAgent" SizeConstraintsType="Default" Index="2" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="AgentName" ViewItem="AgentName" SizeConstraintsType="Default" Index="3" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="PatrolMan" ViewItem="PatrolMan" SizeConstraintsType="Default" Index="4" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueVehicle" ViewItem="RescueVehicle" SizeConstraintsType="Default" Index="5" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueType" ViewItem="RescueType" SizeConstraintsType="Default" Index="6" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueDriver" ViewItem="RescueDriver" SizeConstraintsType="Default" Index="7" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueAssistant" ViewItem="RescueAssistant" SizeConstraintsType="Default" Index="8" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueDate" ViewItem="RescueDate" SizeConstraintsType="Default" Index="9" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueRegionFrom" ViewItem="RescueRegionFrom" SizeConstraintsType="Default" Index="10" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="RescueLocationFrom" ViewItem="RescueLocationFrom" SizeConstraintsType="Default" Index="11" RelativeSize="7" IsNewNode="True" />
+                <LayoutItem Id="ExactLocationFrom" ViewItem="ExactLocationFrom" SizeConstraintsType="Default" Index="12" RelativeSize="10" IsNewNode="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="Auto72eac97e-4083-4ec7-be44-e325bbe52ac5" ShowCaption="False" Caption="Auto72eac97e-4083-4ec7-be44-e325bbe52ac5(47)" Direction="Horizontal" Index="1" RelativeSize="67" IsNewNode="True">
+                <LayoutGroup Id="Autoffc65575-ba67-4cf0-bc1e-750f85fe1d8b" ShowCaption="False" Caption="Autoffc65575-ba67-4cf0-bc1e-750f85fe1d8b(48)" Index="0" RelativeSize="58" IsNewNode="True">
+                  <LayoutItem Id="RescueRegionTo" ViewItem="RescueRegionTo" SizeConstraintsType="Default" Index="0" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="RescueLocationTo" ViewItem="RescueLocationTo" SizeConstraintsType="Default" Index="1" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="ExactLocationTo" ViewItem="ExactLocationTo" SizeConstraintsType="Default" Index="2" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreeTow" ViewItem="IsFreeTow" SizeConstraintsType="Default" Index="3" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreeAirEvacuation" ViewItem="IsFreeAirEvacuation" SizeConstraintsType="Default" Index="4" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreeGroundAmbulance" ViewItem="IsFreeGroundAmbulance" SizeConstraintsType="Default" Index="5" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreeWheelAlignment" ViewItem="IsFreeWheelAlignment" SizeConstraintsType="Default" Index="6" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreePostAccidentSupport" ViewItem="IsFreePostAccidentSupport" SizeConstraintsType="Default" Index="7" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsRoadsideCall" ViewItem="IsRoadsideCall" SizeConstraintsType="Default" Index="8" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="HasRecoveryCharges" ViewItem="HasRecoveryCharges" SizeConstraintsType="Default" Index="9" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="HasRescueFee" ViewItem="HasRescueFee" SizeConstraintsType="Default" Index="10" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="HasTowingFee" ViewItem="HasTowingFee" SizeConstraintsType="Default" Index="11" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="HasRunningCost" ViewItem="HasRunningCost" SizeConstraintsType="Default" Index="12" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="IsFreePostAccident" SizeConstraintsType="Default" Index="13" RelativeSize="3" ShowCaption="False" ViewItem="" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutGroup Id="Auto56997605-8157-4d00-bb18-9aa8036acd86" ShowCaption="False" Caption="Auto56997605-8157-4d00-bb18-9aa8036acd86(58)" Index="1" RelativeSize="41" IsNewNode="True">
+                  <LayoutItem Id="TowDistance" ViewItem="TowDistance" SizeConstraintsType="Default" Index="0" RelativeSize="9" IsNewNode="True" />
+                  <LayoutItem Id="FreeTowCost" ViewItem="FreeTowCost" SizeConstraintsType="Default" Index="1" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="RecoveryCharges" ViewItem="RecoveryCharges" SizeConstraintsType="Default" Index="2" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="RoadsideCallFee" ViewItem="RoadsideCallFee" SizeConstraintsType="Default" Index="3" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="RescueFee" ViewItem="RescueFee" SizeConstraintsType="Default" Index="4" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="TowingFee" ViewItem="TowingFee" SizeConstraintsType="Default" Index="5" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="RunningCost" ViewItem="RunningCost" SizeConstraintsType="Default" Index="6" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="FeeChargeble" ViewItem="FeeChargeble" SizeConstraintsType="Default" Index="7" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="PaymentRefCode" ViewItem="PaymentRefCode" SizeConstraintsType="Default" Index="8" RelativeSize="7" IsNewNode="True" />
+                  <LayoutItem Id="ReferenceCode" SizeConstraintsType="Default" Index="9" RelativeSize="32" ShowCaption="False" ViewItem="" IsNewNode="True" />
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="SizeableEditors" ShowCaption="False" Index="1" RelativeSize="0" Caption="SizeableEditors" Direction="Horizontal" IsNewNode="True" />
+          <LayoutGroup Id="AuditTrail_Group" ShowCaption="True" Caption="Audit Trail" Index="2" RelativeSize="10" IsNewNode="True">
+            <LayoutItem Id="AuditTrail" ViewItem="AuditTrail" SizeConstraintsType="Default" Index="0" RelativeSize="49" IsNewNode="True" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="AAK_MIS.Module.RescueDetails_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.RescueDetails_LookupListView" UseServerMode="True" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.RescueLocations_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueLocations_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescuePeriod_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescuePeriod_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueRegions_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueRegions_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueRegions_RescueDetailsFrom_ListView" UseServerMode="True" AllowDelete="False" AllowNew="False" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.RescueRegions_RescueDetailsTo_ListView" UseServerMode="True" AllowNew="False" AllowDelete="False" ImageName="BO_Organization" />
+    <ListView Id="AAK_MIS.Module.RescueRegions_RescueLocation_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueTeam_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueTeam_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueType_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueType_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueVehicles_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.RescueVehicles_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.SafariAssessment_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.SafariAssessment_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.SafariCheck_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.SafariCheck_LookupListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.VehicleModel_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.VehicleModel_LookupListView" UseServerMode="True" />
+    <DetailView Id="AAK_MIS.Module.Vehicles_DetailView" AllowDelete="False" AllowEdit="False" AllowNew="False" ImageName="BO_Vendor" />
+    <ListView Id="AAK_MIS.Module.Vehicles_ListView" AllowDelete="False" AllowEdit="False" AllowNew="False" UseServerMode="True" ImageName="BO_Vendor" />
+    <ListView Id="AAK_MIS.Module.Vehicles_LookupListView" AllowDelete="False" AllowEdit="False" AllowNew="False" UseServerMode="True" ImageName="BO_Vendor" />
+    <ListView Id="AAK_MIS.Module.VehicleTypes_ListView" UseServerMode="True" />
+    <ListView Id="AAK_MIS.Module.VehicleTypes_LookupListView" UseServerMode="True" />
+    <DetailView Id="DevExpress.Persistent.BaseImpl.Person_DetailView">
+      <Items>
+        <PropertyEditor Id="Branch" Caption="Branch" PropertyName="Branch" IsNewNode="True" />
+        <PropertyEditor Id="Department" Caption="Department" PropertyName="Department" IsNewNode="True" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100" ImageName="" Caption="Main" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+          <LayoutGroup Id="PhoneNumbers_Group" Direction="Vertical" RelativeSize="66" ImageName="" Caption="Phone Numbers" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default">
+            <LayoutItem Id="PhoneNumbers" SizeConstraintsType="Default" RelativeSize="93" CaptionLocation="Default" CaptionWordWrap="Default" CaptionHorizontalAlignment="Default" CaptionVerticalAlignment="Default" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

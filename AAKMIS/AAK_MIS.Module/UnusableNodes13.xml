@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="AAK_MIS.Module.ReqestedItemsList_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="File" Caption="Approved Scanned Request Order" />
+      </Items>
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main" RelativeSize="100" ImageName="">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="30" ImageName="">
+            <LayoutGroup Id="ReqestedItemsList" RelativeSize="84" ImageName="">
+              <LayoutGroup Id="ReqestedItemsList_col1" RelativeSize="48" ImageName="">
+                <LayoutItem Id="Category" SizeConstraintsType="Default" RelativeSize="20" />
+                <LayoutItem Id="ItemName" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="QuantityRequested" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="QuantityReceived" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="Balance" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="Branch" SizeConstraintsType="Default" RelativeSize="20" />
+              </LayoutGroup>
+              <LayoutGroup Id="ReqestedItemsList_col2" RelativeSize="48" ImageName="">
+                <LayoutItem Id="Department" SizeConstraintsType="Default" RelativeSize="20" />
+                <LayoutItem Id="ApprovedBy" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="Status" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="ReceivedBy" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="ModifiedOn" SizeConstraintsType="Default" RelativeSize="15" />
+                <LayoutItem Id="CreatedBy" SizeConstraintsType="Default" RelativeSize="20" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="FileAttachmentBase" Caption="File" RelativeSize="15" ImageName="">
+              <LayoutItem Id="File" SizeConstraintsType="Default" RelativeSize="100" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="AuditTrail_Group" Direction="Vertical" RelativeSize="69" ImageName="BO_Audit_ChangeHistory">
+            <LayoutItem Id="AuditTrail" SizeConstraintsType="Default" RelativeSize="92" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+  <NavigationItems Id="NavigationItems">
+    <Items Id="Items">
+      <Item Id="Procurement">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.StockControl_ListView" ViewId="AAK_MIS.Module.StockControl_ListView" />
+          <Item Id="AAK_MIS.Module.Items_ListView" ViewId="AAK_MIS.Module.Items_ListView" />
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView" ViewId="AAK_MIS.Module.CategoryGroups_ListView" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView" ViewId="AAK_MIS.Module.SuppliersList_ListView" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView" ViewId="AAK_MIS.Module.ReqestedItemsList_ListView" />
+        </Items>
+      </Item>
+      <Item Id="DrivingSchool">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.StudentManager_ListView" ViewId="AAK_MIS.Module.StudentManager_ListView" />
+        </Items>
+      </Item>
+      <Item Id="Default">
+        <Items Id="Items">
+          <Item Id="AAK_MIS.Module.CategoryGroups_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.Items_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.ReqestedItemsList_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.StockControl_ListView" Removed="True" />
+          <Item Id="AAK_MIS.Module.SuppliersList_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>
